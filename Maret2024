@@ -4,7 +4,7 @@
 //TV NASIONAL Update 
 #EXTINF:-1 group-title="UPDATE", EXP AGUSTUS 2024
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",UPDATE 07 APRIL 2024
+#EXTINF:-1 group-title="TV NASIONAL",UPDATE 26 APRIL 2024
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -261,42 +261,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd|re
 https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd|referer=https://www.visionplus.id
 
 //MOVIES
-#EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/45jb5o8gfh1ahmq/hbo.png",HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="hbohitsasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png", HBO HITS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="hbofamilyasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/99u866yr2c6qs8n/hbofamily.png",HBO FAMILY
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="hbosignatureasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/eh9nlf20uhc9xbg/hbosignature.png",HBO SIGNATURE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="cinemaxasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/7o66wychx4m2wmo/cinemax.png",CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="warnertvasia.sg" tvg-logo="https://dl.dropboxusercontent.com/s/8k7wayonb9lfrpj/warnertv.png", WARNER TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/8k7wayonb9lfrpj/warnertv.png" group-title="Movies", WARNER TV (Transvision)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 #EXTINF:-1 tvg-name="WARNER" tvg-logo="https://hometv.pw/logo/movies/warner.png" group-title="Movies",WARNER (*)
 http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/71094.ts
 
