@@ -64,7 +64,7 @@ http://extraott.com/live/7921751389/6097373662/45098.m3u8
 
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="TV NASIONAL",Moji
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
+http://iptvtree.net:8080/everton/7def2e7e/298550
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="TV NASIONAL",Moji
 http://rr3.dens.tv/s/s41/index.m3u8
 
