@@ -4,7 +4,30 @@
 //TV NASIONAL Update 
 #EXTINF:-1 group-title="UPDATE", EXP NOVEMBER 2024
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
-#EXTINF:-1 group-title="TV NASIONAL",UPDATE 30.8.5
+#EXTINF:-1 group-title="TV NASIONAL",UPDATE 30.8.6
+
+#EXTINF:0 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Lifetime.jpg" group-title="1",RCTI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
+https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referer=https://www.visionplus.id
+#EXTINF:0 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Lifetime.jpg" group-title="1",TRANS7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
+https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|referer=https://www.visionplus.id
+#EXTINF:0 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Lifetime.jpg" group-title="1",GTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
+https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=https://www.visionplus.id
+#EXTINF:0 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Lifetime.jpg" group-title="1",Chinemachi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd|referer=https://www.visionplus.id
+#EXTINF:0 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/Lifetime.jpg" group-title="1",SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|referer=https://www.visionplus.id
+
+
 https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/PJhxzfhS/RCTI.png" group-title="TV NASIONAL",1 RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
